@@ -1,0 +1,68 @@
+Algoritmo Ejercicios_de_expresiones_matematicas
+//Ejercicio #1 
+//bosquejo, los valores de a=3 y b=7 encontrar valor de y = 2 * 3 + 7 mod 3
+//Y = 2 * a + b - a % 3
+//2 * 3 + 7 - 3 mod 3
+//6 + 7
+//13
+FinFuncion
+//Ejercicio #2
+//bosquejo, si a=10 y b=4, calcula el valor de z = a * b + 3 mod a + b
+//Z = a * b + 3 % a + b
+//10 * 4 + 3  mod 10 + 4
+//40 + 3 + 4
+//47
+FinFuncion	
+//Ejercicio #3
+//bosquejo, Con a=6 y b=2, determina el valor de w = a - b + 2 * a mod b
+//W = a - b + 2 * a % b
+//6 - 2 + 2 * 6 mod 2
+//6 - 2 + 12 mod 2
+//6 - 2
+//4
+FinFuncion
+//Ejercicio #4
+//bosquejo, Para a=8 y b=5, encuentra el valor de v = 2 * b + a div 2 + 4 * b mod a.
+//V = 2 * b + a div 2 + 4 * b mod a
+//2 * 5 + 8 div 2 + 4 * 5 mod 8
+//10 + 4 + 4 
+//18
+FinFuncion
+//Ejercicio #5
+//bosquejo, Si a=12 y b=9, calcula el valor de u = b - a + 3 * a mod b
+//U = b - a + 3 * a mod b
+//9 - 12 + 3 * 12 mod 9 
+//9 - 12 + 36 
+//33
+FinFuncion
+//Ejercicio #6
+//bosquejo,resuelve el planteamiento en la operacion (5 + 3 * 2) + 9 > 3 * 5 * 14 % 3
+//11 + 9 > 3 * 5 * 14 % 3
+//11 + 9 > 210 % 3
+//20 > 210 % 3
+//20 > 6.30
+FinFuncion
+//Ejercicio #7
+//bosquejo, calcula esta operacion en: 2 *(4 - 10 + 8)/2* 36 *(1/2)
+//2 * 2 / 2 * 36 * 0.5
+//4/36
+//9
+FinFuncion
+//Ejercicio #8
+//bosquejo, resolver esta operacion dado a (48 < 2 * 3) | | (2 * 7 < 12)
+//(48 < 6) (14 < 12)
+// 48 mayor a 6
+// 14 mayor a 12
+FinFuncion
+//Ejercicio #9
+//bosquejo, resolver esta operacion: 260 / 12 + 54 % 3 - 85 % 7
+//21.6 + 54 % 82 % 7
+//45.6
+FinFuncion
+//Ejercicio 10
+//bosquejo, realizar la siguiente operacion ((8 > 2) | | (932 < 23) ) && 4 == 2
+//8 mayor a 2 
+// 932 mayor a 23 
+//4 igual a 2
+FinAlgoritmo
+
